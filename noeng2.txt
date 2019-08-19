@@ -1,5 +1,5 @@
 
-2000_2200---------------------------
+2000_2200------------------------------------------
 jewel
 jaw  law
 jazz 
@@ -84,7 +84,65 @@ lie  lay
 lid
 suspend    postpone
 
-2200_2400----------------------------------------------------------------
+2200_2400------------------------------------------------------
+gym
+gymnasium
+identity   
+idle
+shelter
+ignore
+illegal
+illness
+visual   eyesight
+analyzing
+imaginary   imagination   imagine
+imitate
+immediate
+victim
+immence
+immigrant
+impact
+impatient
+imply  implication
+nation   native
+impossible
+impress   impression  	impressive
+inch
+income
+security
+establish    build     set up
+increase
+revenue
+significantly
+independence   independent
+india  ind ian
+indication
+indirect   direct   immediate 	
+individual
+wealth
+fame
+influential
+inevitable
+infant
+infect
+infer   inferior
+influence
+retrieval
+inherit
+huge
+injection
+injure
+priest   monk 
+spcecially
+train
+sick
+ink 
+inn
+innocent
+inspire
+
+
+instance
 
 
 
@@ -94,7 +152,30 @@ suspend    postpone
 
 
 
-2400_2600----------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2400_2600----------------------------------------------------
 funny farm 
 fur  --furnace »ðÂ¯
 furniture  ¼Ò¾ß
