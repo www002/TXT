@@ -1,112 +1,3 @@
--900---------------------------------------------------------------------------
-season
-seal
-screw
-charm
-scratch   scrape   scar   
-scare   fright   threat
-scout  seek   search
-score
-scold
-scholar
-scholarship
-scissor
-schedule
-scene
-scatter
-scarce
-saw
-scientific
-science
-saving
-sausage
-saucer
-satisfactory
-sandwich
-salad
-salt
-suppose
-sale promotion
-salary
-sake   purpose
-sail sailor 
-saddle
-sack
-rust
-russian
-rural
-rude
-rubbish
-rub   rod    rob    rib   rug
-robot
-royal  loyal  loyalty
-route
-rouse  weaken arouse
-rotten
-rocket
-risk
-ripe
-rival   river
-roar   shout
-engagement ring
-ridiculous
-ridge  bridge  fridge 
-roof
-
-
-800 --------------------------------------------
-seize
-selfish
-kindness
-semester
-senior   minor  major    junior
-sense
-sensible
-separate
-guy      joke    laught  
-series
-sudden
-industry
-settle  resolve
-severe  serve  	
-saw
-shade
-actually
-shall
-shallow
-shame
-shape
-sharp
-shave
-shed
-shell sheet  shelf  
-shield
-shirt	
-shiver
-shock
-shoot  shot
-shore  short
-shortage  shortcoming
-shower
-shut
-shy
-sick
-sigh  sign
-refusal
-sight  sightseeing 	
-signature
-silence
-silk
-silly
-silver  gold
-similar
-fossil
-simplicity
-sincere
-phototype
-
-
-
 
 2000_2200---------------------------
 jewel
@@ -289,7 +180,7 @@ stick
 
 
 
-2600---------------------------
+2600-2800--------------------------------------
 fix  fit fish  fisherman fist   
 flag  flat 
 fee 
@@ -367,6 +258,106 @@ funeral
 
 
 
+2800--3000-----------------------------------------
+expert
+explain explanation 
+explosion   burst   onburst   break out
+explosive 
+invent 
+explore
+technology
+enabling
+harvest
+abvious
+expose
+repidly   immediately  
+thereby 
+poverty
+industrie
+flows
+purely
+gratitude  thank 
+expression
+seldom   little    scarcely
+extensive
+extent
+external
+extra    extraordinary
+extreme
+suspect
+fabric
+facility
+surprise
+population aging
+particularly
+resemble
+fade   fail   failure   fair  
+faith  trust  believe   dependence  confidence  
+faithful    loyal
+faint
+magazine
+section 
+recommend
+alarm
+familiar
+famine
+famous
+generosity
+fan   far 	
+sup
+superior    inferior  
+fare   farewell 
+farm 
+smoke
+crude
+practically
+farther  father feather   further  feature
+fashion
+fast  fasten    fat
+kid 
+
+
+
+
+trend
+positively
+pressure
+fatigue
+fault
+favor  favorable   fever
+favorite
+fear   fearful 
+feasible
+feature
+strike   striking
+federal  government
+inferior  superior
+cultivate
+intensive
+bone   blood   flesh
+hurt
+properly
+citizen
+female
+fence
+wolf
+fertile    rich
+fertilizer
+artificial
+fest   festival   fast 
+cultural
+fetch
+fever
+pitch 
+field
+fierce
+fight   fright   
+figure 
+fiber
+skate
+interview
+finger
+sensitive	
 
 
 
